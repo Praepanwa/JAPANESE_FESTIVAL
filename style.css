@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt&display=swap');
+body{
+   background-image:url("images/index.png") ,url("https://media.giphy.com/media/aorAs0VoAlCmY/giphy.gif") ;
+        background-repeat: no-repeat, no-repeat;
+        background-size: cover, cover;
+        background-attachment: scroll, fixed;
+        font-family: 'Prompt', sans-serif;   
+}
+.boxcontent{
+    right:250px;
+    margin: 10px;
+    padding: 10px 10px 0px 10px;
+    width: 350px;
+    height: 200px;
+    color:black;
+     background-color: ivory;
+        }
+    .othercontent{
+        margin: 5px;
+        padding: 70px;
+        width: 200px;
+        height: 200px;
+        color:black;
+        background-color: #FFF;
+        padding: 15 px;
+        /* box-shadow:12px 12px 2px rgba(0, 0, 0, .2);
+        opacity: 20; */
+        -moz-box-shadow:   0 0 10px #000000;
+       /* -webkit-box-shadow:  0 0 10px #000000; */
+       box-shadow:          0 0 10px #000000;
+        }
+        .page3{
+        margin-left: 5px;
+        padding: 20px;
+        width: 650px;
+        height: 410px;
+        color:black;
+        /* background-color: #FFF; */
+        background-color:ivory; 
+        
+            }   
+        .page3left{
+            margin-left: 5px;
+            padding: 20px;
+            width: 250px;
+            height: 200px;
+            color:black;
+            /* background-color: #FFF; */
+            background-color:ivory; 
+            
+        } 
+    .con1{
+                margin:0px 50px 0px 50px;
+                padding:100px;
+                /* width: 1300px;
+                height: 350px; */
+                /* color:black; */
+                /* background-color: #FFF; */
+                /* background-color:ivory;  */
+                background-image: url(img/textbox1.png);
+                background-repeat: no-repeat;
+                background-size: 95%;
+                /* padding: 15 px; */
+                }  
+       .right{
+           float: right;
+       }
+       .con2{
+        margin:0px 50px 0px 50px;
+        padding:100px;
+        /* width: 1300px;
+        height: 350px; */
+        /* color:black; */
+        /* background-color: #FFF; */
+        /* background-color:ivory;  */
+        background-image: url(img/textbox2.png);
+        background-repeat: no-repeat;
+        background-size: 95%;
+        /* padding: 15 px; */
+        } 
+        /* .pictest{
+            background-image: url("img/textbox1.png");
+
+            position: relative;
+            
+        }        
+        .text{
+            position: relative;
+        } */
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    .readnext{
+    color: #FFF;
+    background-color: #9D080D;
+    margin: 10px;
+    padding: 5px 25px;
+    /* width: 200px; */
+    border-radius:  20px ;
+    }
+    .page2{
+        margin: 5px;
+        padding: 210px;
+    }
+    
+    .seasons{
+        margin-left: 5px;
+            padding: 20px;
+            width: 300px;
+            height: 300px;
+            color:black;
+            /* background-color: #FFF; */
+            background-color:ivory; 
+    }
